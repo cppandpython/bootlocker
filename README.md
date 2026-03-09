@@ -10,8 +10,9 @@
 
 <br>
 
-bootlocker — pre-OS authentication tool that runs at the boot stage
-          Supports both BIOS (MBR) and UEFI (EFI) platforms
+bootlocker — Pre-OS authentication tool that runs at the boot stage
+
+Supports both BIOS (MBR) and UEFI (EFI) platforms
 
 <br>
 
@@ -31,8 +32,9 @@ bootlocker — pre-OS authentication tool that runs at the boot stage
 
 <br>
 
-bootlocker — загрузочный блокировщик на уровне BIOS (MBR) и UEFI (EFI)
-             Блокирует загрузку системы до ввода правильного пароля
+bootlocker — Загрузочный блокировщик на уровне BIOS (MBR) и UEFI (EFI)
+
+Блокирует загрузку системы до ввода правильного пароля
 
 <br>
 
