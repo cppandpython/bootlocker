@@ -10,27 +10,19 @@
 
 <br>
 
-bootlocker
+bootlocker — pre-OS authentication tool that runs at the boot stage.  
+Supports both BIOS (MBR) and UEFI (EFI) platforms.
 
 <br>
 
 ## 🚀 Features
 
-- ✅ SPI-flash, ESP, UEFI, BIOS, DEVICE, LINUX, BSOD
-- 📦 Built-in libraries only
-
-<br>
-
-## 🧰 Installation
-
-```bash
-# Clone repository
-git clone https://github.com/cpythonkiller/linkiller.git
-
-# Launch
-python linkiller.py
-```
-
+- ✅ UEFI and BIOS support
+- ✅ Custom password hashing (TwisterHash)
+- ✅ Secure memory cleanup
+- ✅ Themed output (red for locked, green for unlocked)
+- ✅ Self-destruct option (deletes itself after successful unlock)
+- ✅ No OS dependency – runs before the operating system boots
 
 <br><br><br>
 
@@ -39,23 +31,16 @@ python linkiller.py
 
 <br>
 
-bootlocker
+bootlocker — загрузочный блокировщик на уровне BIOS (MBR) и UEFI (EFI)
+Блокирует загрузку системы до ввода правильного пароля
 
 <br>
 
 ## 🚀 Функции
 
-- ✅ SPI-flash, ESP, UEFI, BIOS, DEVICE, LINUX, BSOD
-- 📦 Только встроенные библиотеки
-
-<br>
-
-## 🧰 Установка
-
-```bash
-# Клонируй репозиторий
-git clone https://github.com/cpythonkiller/linkiller.git
-
-# Запуск
-python linkiller.py
-```
+- ✅ Поддержка UEFI и BIOS
+- ✅ Кастомное хеширование пароля (TwisterHash)
+- ✅ Безопасная очистка памяти
+- ✅ Тематическое оформление (красный — заблокировано, зелёный — разблокировано)
+- ✅ Опция самоуничтожения (удаляет себя после успешного ввода)
+- ✅ Не зависит от ОС — запускается до загрузки операционной системы
