@@ -11,7 +11,7 @@
 <br>
 
 bootlocker — pre-OS authentication tool that runs at the boot stage
-             Supports both BIOS (MBR) and UEFI (EFI) platforms
+          Supports both BIOS (MBR) and UEFI (EFI) platforms
 
 <br>
 
